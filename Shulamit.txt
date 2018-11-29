@@ -1,4 +1,6 @@
 
 
 This is a sample fil
+This line is added to the filE
+
 This is a sample file for the Group-Repo projecT
